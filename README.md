@@ -3,9 +3,9 @@
 ## 데이터(hotel booking demand)
 url : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-data : hote_bookings.csv
-columns : 32
-tuples : 119,390
+data : hote_bookings.csv    
+columns : 32    
+tuples : 119,390  
 
 ### 변수 설명
 hotel : 호텔종류(Resort/City Hotel)
